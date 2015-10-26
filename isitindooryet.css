@@ -1,5 +1,3 @@
-@import url(https://fonts.googleapis.com/css?family=Montserrat:700);
-
 body {
 	background-color: black;
 	color: white;
@@ -8,6 +6,7 @@ body {
 h1 {
 	font-weight: bold;
 	font-size: 50px;
-	font-family: Montserrat, inherit;
+	font-family: 'Montserrat', inherit;
 	text-align: center;
+	margin-top: 50%;
 }
