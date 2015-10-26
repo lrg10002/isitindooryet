@@ -5,8 +5,8 @@ body {
 
 h1 {
 	font-weight: bold;
-	font-size: 50px;
-	font-family: 'Montserrat', inherit;
+	font-size: 90px;
+	font-family: 'Montserrat', sans-serif;
 	text-align: center;
-	margin-top: 50%;
+	margin-top: 30%;
 }
